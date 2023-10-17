@@ -218,7 +218,7 @@ used to determine if the word should be tappable or not.
 
 You will find two books in the `resources` folder. Your challenge will be to create
 a simple GraphQL server that when queried will return a book, however content under the
-page will no longer be tokens and `content` but instead will be the combined `content`
+page will no longer be `tokens` and `content` but instead will be the combined `content`
 and `token` as shown above.
 
 We have left the overall implementation open, allowing you to use whatever framework or tools you prefer. The only requirement is that the implementation should be either Typescript or Javascript.
